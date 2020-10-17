@@ -15,14 +15,14 @@
 
 ## 構成
 ```JSON
-    "hogehoge": [
-      {
-          "name": "hogehoge",
-          "fanArtTag": "#hogehoge",
-          "color": "#FFFFFF",
-          "twitterId": 0000000000000000,
-          "ytChannel": "FugAfUga",
-          "pruduction": "hogehogeLiver"
-      }
-  ]
+"hogehoge": [
+    {
+      "name": "hogehoge",
+      "fanArtTag": "#hogehoge",
+      "color": "#FFFFFF",
+      "twitterId": 0000000000000000,
+      "ytChannel": "FugAfUga",
+      "pruduction": "hogehogeLiver"
+    }
+]
 ```
