@@ -1,1151 +1,1642 @@
 {
-  "#950967576980422657": {
-    "name": "にじさんじ",
-    "color": "2a4b71",
-    "twitterId": "950967576980422657",
-    "youtubeChannel": "UCX7YkU9nEeaoZbkVLVajcMg",
-    "production": "にじさんじ"
-  },
-  "#916156645004029952": {
-    "name": "ホロライブ",
-    "color": "27c7fc",
-    "twitterId": "916156645004029952",
-    "youtubeChannel": "UCJFZiqLMntJufDCHc6bQixg",
-    "production": "ホロライブ"
-  },
-  "#953079145335988224": {
-    "name": "どっとライブ",
-    "color": "000000",
-    "twitterId": "953079145335988224",
-    "youtubeChannel": "UCAZ_LA7f0sjuZ1Ni8L2uITw",
-    "production": "どっとライブ"
-  },
-  "#ヌォンタート": {
-    "name": "名取さな",
-    "color": "c97991",
-    "twitterId": "968546584337072128",
-    "youtubeChannel": "UCIdEIHpS0TdkqRkHL5OkLtA",
-    "production": null
-  },
-  "#たまきあーと": {
-    "name": "犬山たまき",
-    "color": "DD2E44",
-    "twitterId": "218450187",
-    "youtubeChannel": "UC8NZiqKx6fsDT3AVcMiVFyA",
-    "production": "のりプロ"
-  },
-  "#みるくあるばむ": {
-    "name": "愛宮みるく",
-    "color": "ffd3d0",
-    "twitterId": "1120021521752154112",
-    "youtubeChannel": "UCJCzy0Fyrm0UhIrGQ7tHpjg",
-    "production": "のりプロ"
-  },
-  "#みしろんあーと": {
-    "name": "白雪みしろ",
-    "color": "d3e1fe",
-    "twitterId": "1104062814686081024",
-    "youtubeChannel": "UCC0i9nECi4Gz7TU63xZwodg",
-    "production": "のりプロ"
-  },
-  "#KizunaAI": {
-    "name": "キズナアイ",
-    "color": "F58EA8",
-    "twitterId": "803480007775383552",
-    "youtubeChannel": "UC4YaOt1yT-ZeyB0OmxHgolA",
-    "production": "kizunaAi"
-  },
-  "#アカリギャラリー": {
-    "name": "ミライアカリ",
-    "color": "1B95E0",
-    "twitterId": "921295095453794304",
-    "youtubeChannel": "UCMYtONm441rBogWK_xPH9HA",
-    "production": null
-  },
-  "#めめアート": {
-    "name": "もこ田めめめ",
-    "color": "bf1e4a",
-    "twitterId": "971926028842033152",
-    "youtubeChannel": "UCz6Gi81kE6p5cdW1rT0ixqw",
-    "production": "どっとライブ"
-  },
-  "#ちぇり絵": {
-    "name": "花京院ちえり",
-    "color": "e781b1",
-    "twitterId": "972262397640548352",
-    "youtubeChannel": "UCP9ZgeIJ3Ri9En69R0kJc9Q",
-    "production": "どっとライブ"
-  },
-  "#TamaArt": {
-    "name": "夜桜たま",
-    "color": "b8b8b8",
-    "twitterId": "992031495760986113",
-    "youtubeChannel": "UCOefINa2_BmpuX4BbHjdk9A",
-    "production": "どっとライブ"
-  },
-  "#あずきそあーと": {
-    "name": "木曽あずき",
-    "color": "bc83ba",
-    "twitterId": "992041545690824705",
-    "youtubeChannel": "UCmM5LprTu6-mSlIiRNkiXYg",
-    "production": "どっとライブ"
-  },
-  "#もちにゃあと": {
-    "name": "猫乃木もち",
-    "color": "e07b8b",
-    "twitterId": "992043311476101123",
-    "youtubeChannel": "UC02LBsjt_Ehe7k0CuiNC6RQ",
-    "production": "どっとライブ"
-  },
-  "#ピノの自由帳": {
-    "name": "カルロ・ピノ",
-    "color": "cdbfd8",
-    "twitterId": "992039541547585536",
-    "youtubeChannel": "UCMzxQ58QL4NNbWghGymtHvw",
-    "production": "どっとライブ"
-  },
-  "#ふたばあーと": {
-    "name": "北上双葉",
-    "color": "f4b3c7",
-    "twitterId": "992042416445128706",
-    "youtubeChannel": "UC5nfcGkOAm3JwfPvJvzplHg",
-    "production": "どっとライブ"
-  },
-  "#牛絵巻": {
-    "name": "牛巻りこ",
-    "color": "edbe62",
-    "twitterId": "992034633104543747",
-    "youtubeChannel": "UCKUcnaLsG2DeQqza8zRXHiA",
-    "production": "どっとライブ"
-  },
-  "#すずあーと": {
-    "name": "神楽すず",
-    "color": "76c8c6",
-    "twitterId": "992036953804558336",
-    "youtubeChannel": "UCUZ5AlC3rTlM-rA2cj5RP6w",
-    "production": "どっとライブ"
-  },
-  "#イオリの森美術館": {
-    "name": "ヤマトイオリ",
-    "color": "67a3e1",
-    "twitterId": "992044186252685312",
-    "youtubeChannel": "UCyb-cllCkMREr9de-hoiDrg",
-    "production": "どっとライブ"
-  },
-  "#いろは絵馬": {
-    "name": "金剛いろは",
-    "color": "f7d955",
-    "twitterId": "992045252167942145",
-    "youtubeChannel": "UCiGcHHHT3kBB1IGOrv7f3qQ",
-    "production": "どっとライブ"
-  },
-  "#なとあーと": {
-    "name": "八重沢なとり",
-    "color": "47bb66",
-    "twitterId": "992045971268747267",
-    "youtubeChannel": "UC1519-d1jzGiL1MPTxEdtSA",
-    "production": "どっとライブ"
-  },
-  "#Merry_at": {
-    "name": "メリーミルク",
-    "color": "ffffe0",
-    "twitterId": "971795221338976256",
-    "youtubeChannel": "UCju7v8SkoWUQ5ITCQwmYpYg",
-    "production": "どっとライブ"
-  },
-  "#SiroArt": {
-    "name": "電脳少女シロ",
-    "color": "5a87cb",
-    "twitterId": "877820534712451072",
-    "youtubeChannel": "UCLhUvJ_wO9hOvv_yYENu4fQ",
-    "production": "どっとライブ"
-  },
-
-  "#soraArt": {
-    "name": "ときのそら",
-    "color": "496ad6",
-    "twitterId": "880317891249188864",
-    "youtubeChannel": "UCp6993wxpyDPHUpavwDFqgg",
-    "production": "ホロライブ"
-  },
-  "#ロボ子Art": {
-    "name": "ロボ子さん",
-    "color": "bf1e4a",
-    "twitterId": "960340787782299648",
-    "youtubeChannel": "UCDqI2jOz0weumE8s7paEk6g",
-    "production": "ホロライブ"
-  },
-  "#miko_Art": {
-    "name": "さくらみこ",
-    "color": "d199a5",
-    "twitterId": "979891380616019968",
-    "youtubeChannel": "UC-hM6YJuNYVAmUWxeIr9FeA",
-    "production": "ホロライブ"
-  },
-  "#メルArt": {
-    "name": "夜空メル",
-    "color": "fdcd78",
-    "twitterId": "985703615758123008",
-    "youtubeChannel": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "production": "ホロライブ"
-  },
-  "#アロ絵": {
-    "name": "アキロゼ(akirose)",
-    "color": "c97991",
-    "twitterId": "996643748862836736",
-    "youtubeChannel": "UCFTLzh12_nrtzqBPsTCqenA",
-    "production": "ホロライブ"
-  },
-  "#はあとart": {
-    "name": "赤井はあと",
-    "color": "ffdd9f",
-    "twitterId": "998336069992001537",
-    "youtubeChannel": "UC1CfXB_kRs3C-zaeTG3oGyg",
-    "production": "ホロライブ"
-  },
-  "#絵フブキ": {
-    "name": "白上フブキ",
-    "color": "fffefb",
-    "twitterId": "997786053124616192",
-    "youtubeChannel": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "production": "ホロライブ"
-  },
-  "#祭絵": {
-    "name": "夏色まつり",
-    "color": "85696d",
-    "twitterId": "996645451045617664",
-    "youtubeChannel": "UCQ0UDLQCjY0rmuxCDE38FGg",
-    "production": "ホロライブ"
-  },
-  "#あくあーと": {
-    "name": "湊あくあ",
-    "color": "ae6ea0",
-    "twitterId": "1024528894940987392",
-    "youtubeChannel": "UC1opHUrw8rvnsadT-iGp7Cg",
-    "production": "ホロライブ"
-  },
-  "#シオンの書物": {
-    "name": "紫咲シオン",
-    "color": "faf0e7",
-    "twitterId": "1024533638879166464",
-    "youtubeChannel": "UCXTpFs_3PqI41qX2d9tL2Rw",
-    "production": "ホロライブ"
-  },
-  "#百鬼絵巻": {
-    "name": "百鬼あやめ",
-    "color": "bf4b5a",
-    "twitterId": "1024532356554608640",
-    "youtubeChannel": "UC7fk0CB07ly8oSl0aqKkqFg",
-    "production": "ホロライブ"
-  },
-  "#しょこらーと": {
-    "name": "癒月ちょこ",
-    "color": "e3a18a",
-    "twitterId": "1024970912859189248",
-    "youtubeChannel": "UC1suqwovbL1kzsoaZgFZLKg",
-    "production": "ホロライブ"
-  },
-  "#プロテインザスバル": {
-    "name": "大空スバル",
-    "color": "443b3c",
-    "twitterId": "1027853566780698624",
-    "youtubeChannel": "UCvzGlP9oQwU--Y0r9id_jnA",
-    "production": "ホロライブ"
-  },
-  "#みおーん絵": {
-    "name": "大神ミオ",
-    "color": "d03645",
-    "twitterId": "1063337246231687169",
-    "youtubeChannel": "UCp-5t9SrOQwXMU7iIjQfARg",
-    "production": "ホロライブ"
-  },
-  "#絵かゆ": {
-    "name": "猫又おかゆ",
-    "color": "a082d6",
-    "twitterId": "1109751762733301760",
-    "youtubeChannel": "UCvaTdHTWBGv3MKj3KVqJVCw",
-    "production": "ホロライブ"
-  },
-  "#できたてころね": {
-    "name": "戌神ころね",
-    "color": "d17c7a",
-    "twitterId": "1109748792721432577",
-    "youtubeChannel": "UChAnqc_AY5_I3Px5dig3X1Q",
-    "production": "ホロライブ"
-  },
-  "#AZKiART": {
-    "name": "AZKi",
-    "color": "d50b66",
-    "twitterId": "1062499145267605504",
-    "youtubeChannel": "UC0TXe_LYZ4scaW2XMyi5_kw",
-    "production": "ホロライブ"
-  },
-  "#ほしまちぎゃらりー": {
-    "name": "星街すいせい",
-    "color": "79b0d2",
-    "twitterId": "975275878673408001",
-    "youtubeChannel": "UC5CwaMl1eIgY8h02uZw7u8A",
-    "production": "ホロライブ"
-  },
-  "#ぺこらーと": {
-    "name": "兎田ぺこら",
-    "color": "bdc9ee",
-    "twitterId": "1133215093246664706",
-    "youtubeChannel": "UC1DCedRgGHBdm81E1llLhOQ",
-    "production": "ホロライブ"
-  },
-  "#絵クロマンサー": {
-    "name": "潤羽るしあ",
-    "color": "72d0b9",
-    "twitterId": "1142975277175205888",
-    "youtubeChannel": "UCl_gCybOJRIgOXw6Qb4qJzQ",
-    "production": "ホロライブ"
-  },
-  "#しらぬえ": {
-    "name": "不知火フレア",
-    "color": "f1dfb5",
-    "twitterId": "1154304634569150464",
-    "youtubeChannel": "UCvInZx9h3jC2JzsIzoOebWg",
-    "production": "ホロライブ"
-  },
-  "#ノエラート": {
-    "name": "白銀ノエル",
-    "color": "b7aab1",
-    "twitterId": "1153195295573856256",
-    "youtubeChannel": "UCdyqAaZDKHXg4Ahi7VENThQ",
-    "production": "ホロライブ"
-  },
-  "#マリンのお宝": {
-    "name": "宝鐘マリン",
-    "color": "c06576",
-    "twitterId": "1153192638645821440",
-    "youtubeChannel": "UCCzUftO8KOVkV4wQG1vkUvg",
-    "production": "ホロライブ"
-  },
-  "#みとあーと":{
-    "name":"月ノ美兎",
-    "color":"e43f3b",
-    "twitterId":"958737597336928256",
-    "youtubeChannel":"UCD-miitqNY3nyukJ4Fnf4_A",
-    "production":"にじさんじ"
-  },
-  "#ちーあーと":{
-    "name":"勇気ちひろ",
-    "color":"7bb3ee",
-    "twitterId":"958767484902957056",
-    "youtubeChannel":"UCLO9QDxVL4bnvRRsz6K4bsQ",
-    "production":"にじさんじ"
-  },
-  "#えるの絵だよ":{
-    "name":"える",
-    "color":"e2364f",
-    "twitterId":"958726740108484608",
-    "youtubeChannel":"UCYKP16oMX9KKPbrNgo_Kgag",
-    "production":"にじさんじ"
-  },
-  "#でろあーと":{
-    "name":"樋口楓",
-    "color":"fbaf71",
-    "twitterId":"958646957190217728",
-    "youtubeChannel":"UCsg-YqdqQ-KFF0LNk23BY4A",
-    "production":"にじさんじ"
-  },
-  "#凛Art":{
-    "name":"静凛",
-    "color":"745399",
-    "twitterId":"958629229330968580",
-    "youtubeChannel":"UC6oDys1BGgBsIC3WhG1BovQ",
-    "production":"にじさんじ"
-  },
-  "#ピク渋":{
-    "name":"渋谷ハジメ",
-    "color":"d7fad7",
-    "twitterId":"958695135008628737",
-    "youtubeChannel":"UCeK9HFcRZoTrvqcUCtccMoQ",
-    "production":"にじさんじ"
-  },
-  "#アキくんちゃん":{
-    "name":"鈴谷アキ",
-    "color":"F2F9C3",
-    "twitterId":"958675678689243137",
-    "youtubeChannel":"UCpnvhOIJ6BN-vPkYU9ls-Eg",
-    "production":"にじさんじ"
-  },
-  "#もいもいらすと":{
-    "name":"モイラ",
-    "color":"91ABD0",
-    "twitterId":"958632495196459009",
-    "youtubeChannel":"UCvmppcdYf4HOv-tFQhHHJMA",
-    "production":"にじさんじ"
-  },
-  "#詩子あーと":{
-    "name":"鈴鹿詩子",
-    "color":"FA4F62",
-    "twitterId":"970940146680868864",
-    "youtubeChannel":"UCwokZsOK_uEre70XayaFnzA",
-    "production":"にじさんじ"
-  },
-  "#いちごのあとりえ":{
-    "name":"宇志海いちご",
-    "color":"FFCACE",
-    "twitterId":"971316705363464192",
-    "youtubeChannel":"UCmUjjW5zF1MMOhYUwwwQv9Q",
-    "production":"にじさんじ"
-  },
-  "#むぎあーと":{
-    "name":"家長むぎ",
-    "color":"ff899d",
-    "twitterId":"970618643120664576",
-    "youtubeChannel":"UC_GCs6GARLxEHxy1w40d6VQ",
-    "production":"にじさんじ"
-  },
-  "#りりあーと":{
-    "name":"夕陽リリ",
-    "color":"BFFFFF",
-    "twitterId":"970645643965317126",
-    "youtubeChannel":"UC48jH1ul-6HOrcSSfoR02fQ",
-    "production":"にじさんじ"
-  },
-  "#有栖の絵本":{
-    "name":"物述有栖",
-    "color":"81D4E2",
-    "twitterId":"970660632834920449",
-    "youtubeChannel":"UCt0clH12Xk1-Ej5PXKGfdPA",
-    "production":"にじさんじ"
-  },
-  "#のらねっこあら":{
-    "name":"文野環",
-    "color":"EBDDB4",
-    "twitterId":"971925378913611776",
-    "youtubeChannel":"UCBiqkFJljoxAj10SoP2w2Cg",
-    "production":"にじさんじ"
-  },
-  "#ギルザレン画廊":{
-    "name":"ギルザレンⅢ世",
-    "color":"002FA7",
-    "twitterId":"971032696393789440",
-    "youtubeChannel":"UCUzJ90o1EjqUbk2pBAy0_aw",
-    "production":"にじさんじ"
-  },
-  "#金剛力也像":{
-    "name":"剣持刀也",
-    "color":"A590AF",
-    "twitterId":"970692564096499712",
-    "youtubeChannel":"UCv1fFr156jc65EMiLbaLImw",
-    "production":"にじさんじ"
-  },
-  "#森中びじゅつかん":{
-    "name":"森中花咲",
-    "color":"C8F39A",
-    "twitterId":"973784758688927745",
-    "youtubeChannel":"UCtpB6Bvhs1Um93ziEDACQ8g",
-    "production":"にじさんじ"
-  },
-  "#かな絵":{
-    "name":"叶",
-    "color":"ABD3D8",
-    "twitterId":"988101299106267138",
-    "youtubeChannel":"UCspv01oxUFf_MTSipURRhkA",
-    "production":"にじさんじ"
-  },
-  "#赤羽絵葉書":{
-    "name":"赤羽葉子",
-    "color":"CA636C",
-    "twitterId":"988489581367513088",
-    "youtubeChannel":"UCBi8YaVyZpiKWN3_Z0dCTfQ",
-    "production":"にじさんじ"
-  },
-  "#笹の絵":{
-    "name":"笹木咲",
-    "color":"EF9AAF",
-    "twitterId":"1012211447160455170",
-    "youtubeChannel":"UCoztvTULBYd3WmStqYeoHcA",
-    "production":"にじさんじ"
-  },
-  "#ひまあーと":{
-    "name":"本間ひまわり",
-    "color":"EAC643",
-    "twitterId":"1011167857596493824",
-    "youtubeChannel":"UC0g1AE0DOjBYnLhkgoRWN1w",
-    "production":"にじさんじ"
-  },
-  "#りりむとおえかき":{
-    "name":"魔界ノりりむ",
-    "color":"D44968",
-    "twitterId":"1022782812775100416",
-    "youtubeChannel":"UC9EjSJ8pvxtvPdxLOElv73w",
-    "production":"にじさんじ"
-  },
-  "#KuzuArt":{
-    "name":"葛葉",
-    "color":"ACA7BB",
-    "twitterId":"965760241169088512",
-    "youtubeChannel":"UCSFCh5NL4qXrAy9u-u2lX3g",
-    "production":"にじさんじ"
-  },
-  "#氷画":{
-    "name":"雪汝",
-    "color":"85AFE9",
-    "twitterId":"1023138752850321408",
-    "youtubeChannel":"UCfM_A7lE6LkGrzx6_mOtI4g",
-    "production":"にじさんじ"
-  },
-  "#しいなーと":{
-    "name":"椎名唯華",
-    "color":"F1C8DE",
-    "twitterId":"1022844567735824384",
-    "youtubeChannel":"UC_4tXjqecqox5Uc05ncxpxg",
-    "production":"にじさんじ"
-  },
-  "#ドーラの宝物庫":{
-    "name":"ドーラ",
-    "color":"A83E4A",
-    "twitterId":"1002073779848151041",
-    "youtubeChannel":"UC53UDnhAAYwvNO7j_2Ju1cQ",
-    "production":"にじさんじ"
-  },
-  "#出雲墨絵":{
-    "name":"出雲霞",
-    "color":"A9D6E3",
-    "twitterId":"1002059898929082370",
-    "youtubeChannel":"UCLpYMk5h1bq8_GAFVBgXhPQ",
-    "production":"にじさんじ"
-  },
-  "#クリエイツ轟京子":{
-    "name":"轟京子",
-    "color":"F8A69A",
-    "twitterId":"1002050003559317504",
-    "youtubeChannel":"UCRV9d6YCYIMUszK-83TwxVA",
-    "production":"にじさんじ"
-  },
-  "#描いたよクレアさん":{
-    "name":"シスター・クレア",
-    "color":"DFC6A8",
-    "twitterId":"1000324666697728000",
-    "youtubeChannel":"UC1zFJrfEKvCixhsjNSb1toQ",
-    "production":"にじさんじ"
-  },
-  "#お花畑青空大写生大会":{
-    "name":"花畑チャイカ",
-    "color":"40cf84",
-    "twitterId":"999942020238995456",
-    "youtubeChannel":"UCsFn_ueskBkMCEyzCEqAOvg",
-    "production":"にじさんじ"
-  },
-  "#社築納品物":{
-    "name":"社築",
-    "color":"B6C6F2",
-    "twitterId":"1002342365695078401",
-    "youtubeChannel":"UCKMYISTJAQ8xTplUPHiABlA",
-    "production":"にじさんじ"
-  },
-  "#ももちゃんあーと":{
-    "name":"安土桃",
-    "color":"F295CE",
-    "twitterId":"1002075894880452609",
-    "youtubeChannel":"UC6TfqY40Xt1Y0J-N18c85qQ",
-    "production":"にじさんじ"
-  },
-  "#漆黒の水鏡":{
-    "name":"鈴木勝",
-    "color":"7B788A",
-    "twitterId":"994984072647593984",
-    "youtubeChannel":"UCryOPk2GZ1meIDt53tL30Tw",
-    "production":"にじさんじ"
-  },
-  "#緑仙はやく見ろ":{
-    "name":"緑仙",
-    "color":"5DCCAB",
-    "twitterId":"1001291760272736257",
-    "youtubeChannel":"UCt5-0i4AVHXaWJrL8Wql3mw",
-    "production":"にじさんじ"
-  },
-  "#絵画コウ":{
-    "name":"卯月コウ",
-    "color":"F9E97A",
-    "twitterId":"1002077473360658432",
-    "youtubeChannel":"UC3lNFeJiTq6L3UWoz4g1e-A",
-    "production":"にじさんじ"
-  },
-  "#クリ笑イト":{
-    "name":"神田笑一",
-    "color":"F4D35B",
-    "twitterId":"1015204476242677761",
-    "youtubeChannel":"UCWz0CSYCxf4MhRKPDm220AQ",
-    "production":"にじさんじ"
-  },
-  "#ぴよあーと":{
-    "name":"飛鳥ひな",
-    "color":"FAD8DC",
-    "twitterId":"1011952508317548550",
-    "youtubeChannel":"UCiSRx1a2k-0tOg-fs6gAolQ",
-    "production":"にじさんじ"
-  },
-  "#絵アル":{
-    "name":"春崎エアル",
-    "color":"4B5F9E",
-    "twitterId":"1004740613814681601",
-    "youtubeChannel":"UCtAvQ5U0aXyKwm2i4GqFgJg",
-    "production":"にじさんじ"
-  },
-  "#雨森と美術":{
-    "name":"雨森小夜",
-    "color":"756F7D",
-    "twitterId":"1019625123114987521",
-    "youtubeChannel":"UCRWOdwLRsenx2jLaiCAIU4A",
-    "production":"にじさんじ"
-  },
-  "#リオンあーと":{
-    "name":"鷹宮リオン",
-    "color":"CC3D7B",
-    "twitterId":"1009734224369221632",
-    "youtubeChannel":"UCV5ZZlLjk5MKGg3L0n0vbzw",
-    "production":"にじさんじ"
-  },
-  "#しら画":{
-    "name":"舞元啓介",
-    "color":"AFC9A4",
-    "twitterId":"1027050557465223169",
-    "youtubeChannel":"UCJubINhCcFXlsBwnHp0wl_g",
-    "production":"にじさんじ"
-  },
-  "#尊絵巻":{
-    "name":"竜胆尊",
-    "color":"745BFF",
-    "twitterId":"1009751809966010368",
-    "youtubeChannel":"UCPvGypSgfDkVe7JG2KygK7A",
-    "production":"にじさんじ"
-  },
-  "#でびるさまにささげるえ":{
-    "name":"でびでび・でびる",
-    "color":"444C7D",
-    "twitterId":"1034137905000636417",
-    "youtubeChannel":"UCjlmCrq4TP1I4xguOtJ-31w",
-    "production":"にじさんじ"
-  },
-  "#リツキあーと":{
-    "name":"桜凛月",
-    "color":"C57FC7",
-    "twitterId":"964340295914569728",
-    "youtubeChannel":"UCfQVs_KuXeNAlGa3fb8rlnQ",
-    "production":"にじさんじ"
-  },
-  "#描いてみまちた":{
-    "name":"町田ちま",
-    "color":"EDDDBB",
-    "twitterId":"1028458841871007744",
-    "youtubeChannel":"UCo7TRj3cS-f_1D9ZDmuTsjw",
-    "production":"にじさんじ"
-  },
-  "#おつきみあーと":{
-    "name":"月見しずく",
-    "color":"E354AF",
-    "twitterId":"1026998487701893120",
-    "youtubeChannel":"UCqQV8xEBWd5SVZBLlYrS_5Q",
-    "production":"にじさんじ"
-  },
-  "#ジョー設展":{
-    "name":"ジョー・力一",
-    "color":"D598DD",
-    "twitterId":"1034345063432650752",
-    "youtubeChannel":"UChUJbHiTVeGrSkTdBzVfNCQ",
-    "production":"にじさんじ"
-  },
-  "#遠い北からの絵手紙":{
-    "name":"遠北千南",
-    "color":"FCC5DC",
-    "twitterId":"1019541420728713216",
-    "youtubeChannel":"UCuz0vzQgC8LRdS6lVV0UkUg",
-    "production":"にじさんじ"
-  },
-  "#なるアート":{
-    "name":"成瀬鳴",
-    "color":"E06489",
-    "twitterId":"1003299893404815360",
-    "youtubeChannel":"UCoM_XmK45j504hfUWvN06Qg",
-    "production":"にじさんじ"
-  },
-  "#デラスのお品書き":{
-    "name":"ベルモンド・バンデラス",
-    "color":"683D46",
-    "twitterId":"1007214007827091456",
-    "youtubeChannel":"UCbc8fwhdUNlqi-J99ISYu4A",
-    "production":"にじさんじ"
-  },
-  "#りねの自由帳":{
-    "name":"矢車りね",
-    "color":"FEECD8",
-    "twitterId":"1043543347430797312",
-    "youtubeChannel":"UCvzVB-EYuHFXHZrObB8a_Og",
-    "production":"にじさんじ"
-  },
-  "#絵かける":{
-    "name":"夢追翔",
-    "color":"AC324B",
-    "twitterId":"1019066007447470080",
-    "youtubeChannel":"UCTIE7LM5X15NVugV7Krp9Hw",
-    "production":"にじさんじ"
-  },
-  "#しばのドッグタグ":{
-    "name":"黒井しば",
-    "color":"585C82",
-    "twitterId":"1043029918014009345",
-    "youtubeChannel":"UCmeyo5pRj_6PXG-CsGUuWWg",
-    "production":"にじさんじ"
-  },
-  "#いめいじー":{
-    "name":"童田明治",
-    "color":"E34E4F",
-    "twitterId":"1082065005061652480",
-    "youtubeChannel":"UCveZ9Ic1VtcXbsyaBgxPMvg",
-    "production":"にじさんじ"
-  },
-  "#3年0組黒板新聞":{
-    "name":"郡道美玲",
-    "color":"A20063",
-    "twitterId":"1085375212575571968",
-    "youtubeChannel":"UCeShTCVgZyq2lsBW9QwIJcw",
-    "production":"にじさんじ"
-  },
-  "#ロアート":{
-    "name":"夢月ロア",
-    "color":"D8368D",
-    "twitterId":"1085498064645705728",
-    "youtubeChannel":"UCCVwhI5trmaSxfcze_Ovzfw",
-    "production":"にじさんじ"
-  },
-  "#小野町絵巻":{
-    "name":"小野町春香",
-    "color":"FF336E",
-    "twitterId":"1086415881154875392",
-    "youtubeChannel":"UCg63a3lk6PNeWhVvMRM_mrQ",
-    "production":"にじさんじ"
-  },
-  "#い絵ーい":{
-    "name":"語部紡",
-    "color":"07A4E3",
-    "twitterId":"1088046328423141380",
-    "youtubeChannel":"UCufQu4q65z63IgE4cfKs1BQ",
-    "production":"にじさんじ"
-  },
-  "#せとあーと":{
-    "name":"瀬戸美夜子",
-    "color":"C4FF2B",
-    "twitterId":"seto_miyako",
-    "youtubeChannel":"UCHK5wkevfaGrPr7j3g56Jmw",
-    "production":"にじさんじ"
-  },
-  "#えらすとや":{
-    "name":"御伽原江良",
-    "color":"FFBE5C",
-    "twitterId":"1088023486583304192",
-    "youtubeChannel":"UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
-    "production":"にじさんじ"
-  },
-  "#いぬいらすと":{
-    "name":"戌亥とこ",
-    "color":"9d3757",
-    "twitterId":"1107557844855844864",
-    "youtubeChannel":"UCXRlIK3Cw_TJIQC5kSJJQMg",
-    "production":"にじさんじ"
-  },
-  "#ヘル絵スタ":{
-    "name":"リゼ・ヘルエスタ",
-    "color":"42FFFF",
-    "twitterId":"1107935587271467008",
-    "youtubeChannel":"UCZ1xuCK1kNmn5RzPYIZop3w",
-    "production":"にじさんじ"
-  },
-  "#絵ンジュ":{
-    "name":"アンジュ・カトリーナ",
-    "color":"C83C35",
-    "twitterId":"1099996270947528704",
-    "youtubeChannel":"UCHVXbQzkl3rDfsXWo8xi2qw",
-    "production":"にじさんじ"
-  },
-  "#さ絵ぐさ":{
-    "name":"三枝明那",
-    "color":"392D47",
-    "twitterId":"1110711077468168192",
-    "youtubeChannel":"UCNW1Ex0r6HsWRD4LCtPwvoQ",
-    "production":"にじさんじ"
-  },
-  "#愛美術館":{
-    "name":"愛園愛美",
-    "color":"F98FB7",
-    "twitterId":"1107868757156745216",
-    "youtubeChannel":"UC0WwEfE-jOM2rzjpdfhTzZA",
-    "production":"にじさんじ"
-  },
-  "#るるのアトリエ":{
-    "name":"鈴原るる",
-    "color":"D7AFA8",
-    "twitterId":"1107968804447903744",
-    "youtubeChannel":"UC_a1ZYZ8ZTXpjg9xUY9sj8w",
-    "production":"にじさんじ"
-  },
-  "#まひろあーと":{
-    "name":"雪城眞尋",
-    "color":"B4E9FF",
-    "twitterId":"1120529071585107968",
-    "youtubeChannel":"UCHX7YpFG8rVwhsHCx34xt7w",
-    "production":"にじさんじ"
-  },
-  "#絵クス絵画":{
-    "name":"エクス・アルビオ",
-    "color":"5C9BBC",
-    "twitterId":"1125700985660198912",
-    "youtubeChannel":"UCIytNcoz4pWzXfLda0DoULQ",
-    "production":"にじさんじ"
-  },
-  "#絵リファ":{
-    "name":"レヴィ・エリファ",
-    "color":"E8E1E8",
-    "twitterId":"1126062450107768832",
-    "youtubeChannel":"UCtnO2N4kPTXmyvedjGWdx3Q",
-    "production":"にじさんじ"
-  },
-  "#舞鈴クラフト":{
-    "name":"葉山舞鈴",
-    "color":"D9EC33",
-    "twitterId":"1140588169491935233",
-    "youtubeChannel":"UCfipDDn7wY-C-SoUChgxCQQ",
-    "production":"にじさんじ"
-  },
-  "#ソシ絵ール":{
-    "name":"ニュイ・ソシエール",
-    "color":"D24E5F",
-    "twitterId":"1140590504158957568",
-    "youtubeChannel":"UCUc8GZfFxtmk7ZwSO7ccQ0g",
-    "production":"にじさんじ"
-  },
-  "#はかせレポート":{
-    "name":"葉加瀬冬雪",
-    "color":"EEFFFF",
-    "twitterId":"1144540365854167041",
-    "youtubeChannel":"UCGYAYLDE7TZiiC8U6teciDQ",
-    "production":"にじさんじ"
-  },
-  "#加画美":{
-    "name":"加賀美ハヤト",
-    "color":"B9ADB9",
-    "twitterId":"1141971886688989184",
-    "youtubeChannel":"UCmovZ2th3Sqpd00F5RdeigQ",
-    "production":"にじさんじ"
-  },
-  "#れなの鳥っくあーと":{
-    "name":"夜見れな",
-    "color":"F7265A",
-    "twitterId":"1144541744639250432",
-    "youtubeChannel":"UCL34fAoFim9oHLbVzMKFavQ",
-    "production":"にじさんじ"
-  },
-  "#灰画":{
-    "name":"黛灰",
-    "color":"086776",
-    "twitterId":"1144142348873392129",
-    "youtubeChannel":"UCb5JxV6vKlYVknoJB8TnyYg",
-    "production":"にじさんじ"
-  },
-  "#マル描いてちょんっ":{
-    "name":"アルス・アルマル",
-    "color":"7FD6E2",
-    "twitterId":"1144129307637239809",
-    "youtubeChannel":"UCdpUojq0KWZCN9bxXnZwz5w",
-    "production":"にじさんじ"
-  },
-  "#ういはぁーと":{
-    "name":"相羽ういは",
-    "color":"324CAC",
-    "twitterId":"1143824438040748032",
-    "youtubeChannel":"UCnRQYHTnRLSF0cLJwMnedCg",
-    "production":"にじさんじ"
-  },
-  "#絵こころ":{
-    "name":"天宮こころ",
-    "color":"C5EDFF",
-    "twitterId":"1146300489832837125",
-    "youtubeChannel":"UCkIimWZ9gBJRamKF0rmPU8w",
-    "production":"にじさんじ"
-  },
-  "#絵にふぁー":{
-    "name":"エリー・コニファー",
-    "color":"DAFFF9",
-    "twitterId":"1158352011990990850",
-    "youtubeChannel":"UCpNH2Zk2gw3JBjWAKSyZcQQ",
-    "production":"にじさんじ"
-  },
-  "#ラトアート":{
-    "name":"ラトナ・プティ",
-    "color":"F8B759",
-    "twitterId":"1144558351788859393",
-    "youtubeChannel":"UCIG9rDtgR45VCZmYnd-4DUw",
-    "production":"にじさんじ"
-  },
-  "#描かれて走":{
-    "name":"早瀬走",
-    "color":"AA7BE8",
-    "twitterId":"1173907942799601664",
-    "youtubeChannel":"UC2OacIzd2UxGHRGhdHl1Rhw",
-    "production":"にじさんじ"
-  },
-  "#いらすこや":{
-    "name":"健屋花那",
-    "color":"FF2FA2",
-    "twitterId":"1146679484575170560",
-    "youtubeChannel":"UC8C1LLhBhf_E2IBPLSDJXlQ",
-    "production":"にじさんじ"
-  },
-  "#シェリンの証拠品":{
-    "name":"シェリン・バーガンディ",
-    "color":"6C2735",
-    "twitterId":"1163457518439284738",
-    "youtubeChannel":"UCHBhnG2G-qN0JrrWmMO2FTA",
-    "production":"にじさんじ"
-  },
-  "#恋フミ": {
-    "name": "フミ",
-    "color": "f4e49D",
-    "twitterId": "1162577611228233729",
-    "youtubeChannel": "UCwrjITPwG4q71HzihV2C7Nw",
-    "production": "にじさんじ"
-  },
-  "#サラ星図": {
-    "name": "星川サラ",
-    "color": "fab80d",
-    "twitterId": "1184071904245583874",
-    "youtubeChannel": "UC9V3Y3_uzU5e-usObb6IE1w",
-    "production": "にじさんじ"
-  },
-  "#カルタの絵札": {
-    "name": "山神カルタ",
-    "color": "384b5a",
-    "twitterId": "1165929239436120064",
-    "youtubeChannel": "UCllKI7VjyANuS1RXatizfLQ",
-    "production": "にじさんじ"
-  },
-  "#えまの絵馬": {
-    "name": "えま★おうがすと",
-    "color": "b32f51",
-    "twitterId": "1162592961223245826",
-    "youtubeChannel": "UCl1oLKcAq93p-pwKfDGhiYQ",
-    "production": "にじさんじ"
-  },
-  "#ルイスのコレクション": {
-    "name": "ルイス・キャミー",
-    "color": "e86a74",
-    "twitterId": "1164061334763274241",
-    "youtubeChannel": "UCb6ObE-XGCctO3WrjRZC-cw",
-    "production": "にじさんじ"
-  },
-  "#マオのお絵描き帳": {
-    "name": "魔使マオ",
-    "color": "c93965",
-    "twitterId": "1186939016244940800",
-    "youtubeChannel": "UCerkculBD7YLc_vOGrF7tKg",
-    "production": "にじさんじ"
-  },
-  "#推す画ール": {
-    "name": "グウェル・オス・ガール",
-    "color": "f04b2d",
-    "twitterId": "1184381092041646080",
-    "youtubeChannel": "UC1QgXt46-GEvtNjEC1paHnw",
-    "production": "にじさんじ"
-  },
-  "#巴絵": {
-    "name": "白雪巴",
-    "color": "6e3fe7",
-    "twitterId": "1198882148389773313",
-    "youtubeChannel": "UCuvk5PilcvDECU7dDZhQiEw",
-    "production": "にじさんじ"
-  },
-  "#絵スコート": {
-    "name": "不破湊",
-    "color": "bf69f4",
-    "twitterId": "1184354588213698561",
-    "youtubeChannel": "UC6wvdADTJ88OfIbJYIpAaDA",
-    "production": "にじさんじ"
-  },
-  "#まっしろキャンバス": {
-    "name": "ましろ",
-    "color": "1E2233",
-    "twitterId": "1208326229457133568",
-    "youtubeChannel": "UCfki3lMEF6SGBFiFfo9kvUA",
-    "production": "にじさんじ"
-  },
-  "#奈羅ート": {
-    "name": "奈羅花",
-    "color": "A02655",
-    "twitterId": "1208326128596766720",
-    "youtubeChannel": "UC-o-E6I3IC2q8sAoAuM6Umg",
-    "production": "にじさんじ"
-  },
-  "#なつめぇ画": {
-    "name": "来栖夏芽",
-    "color": "880223",
-    "twitterId": "1208331322696949760",
-    "youtubeChannel": "UCRcLAVTbmx2-iNcXSsupdNA",
-    "production": "にじさんじ"
-  },
-  "#かなたーと": {
-    "name": "天音かなた",
-    "color": "515f7e",
-    "twitterId": "1200396304360206337",
-    "youtubeChannel": "UCZlDXzGoo7d44bwdNObFacg",
-    "production": "ホロライブ"
-  },
-  "#みかじ絵": {
-    "name": "桐生ココ",
-    "color": "fe9360",
-    "twitterId": "1200397238788247552",
-    "youtubeChannel": "UCS9uQI-jC3DE0L4IpXyvr6w",
-    "production": "ホロライブ"
-  },
-  "#つのまきあーと": {
-    "name": "角巻わため",
-    "color": "fdfac2",
-    "twitterId": "1200397643479805957",
-    "youtubeChannel": "UCqm3BQLlJfvkTsX_hvm0UmA",
-    "production": "ホロライブ"
-  },
-  "#TOWART": {
-    "name": "常闇トワ",
-    "color": "b391c9",
-    "twitterId": "1200357161747939328",
-    "youtubeChannel": "UC1uv2Oq6kNxgATlCiez59hw",
-    "production": "ホロライブ"
-  },
-  "#ルーナート": {
-    "name": "姫森ルーナ",
-    "color": "faadd8",
-    "twitterId": "1200396798281445376",
-    "youtubeChannel": "UCa9Y57gfeY0Zro_noHRVrnw",
-    "production": "ホロライブ"
-  },
-  "#フレン見て": {
-    "name": "フレン・Ｅ・ルスタリオ",
-    "color": "d43637",
-    "twitterId": "1221657763954057217",
-    "youtubeChannel": "UCuep1JCrMvSxOGgGhBfJuYw",
-    "production": "にじさんじ"
-  },
-  "#絵リッサ": {
-    "name": "メリッサ・キンレンカ",
-    "color": "e9746b",
-    "twitterId": "1221661362935328769",
-    "youtubeChannel": "UCwcyyxn6h9ex4sMXGtpQE_g",
-    "production": "にじさんじ"
-  },
-  "#絵ブラヒム": {
-    "name": "イブラヒム",
-    "color": "e3e941",
-    "twitterId": "1221660522971463680",
-    "youtubeChannel": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
-    "production": "にじさんじ"
-  },
-  "#上弦画": {
-      "name": "弦月藤士郎",
-      "color": "b7aec8",
-      "twitterId": "1244254367806410753",
-      "youtubeChannel": "UCGw7lrT-rVZCWHfdG9Frcgg",
-      "production": "にじさんじ"
-  },
-  "#描いた晴": {
-      "name": "甲斐田晴",
-      "color": "91D2FA",
-      "twitterId": "1244433641251336192",
-      "youtubeChannel": "UCo2N7C-Z91waaR6lF3LL_jw",
-      "production": "にじさんじ"
-  },
-  "#長尾百景": {
-      "name": "長尾景",
-      "color": "534f73",
-      "twitterId": "1244548255913930761",
-      "youtubeChannel": "UCXW4MqCQn-jCaxlX-nn-BYg",
-      "production": "にじさんじ"
-  },
-  "#きら名画": {
-    "name": "空星きらめ",
-    "color": "3a6084",
-    "twitterId": "1276465818780356608",
-    "youtubeChannel": "UC_82HBGtvwN1hcGeOGHzUBQ",
-    "production": "にじさんじ"
-  },
-  "#めいろの金魚図鑑": {
-    "name": "金魚坂めいろ",
-    "color": "f86a97",
-    "twitterId": "1276919889823842305",
-    "youtubeChannel": "UC69URn8iP4u8D_zUp-IJ1sg",
-    "production": "にじさんじ"
-  },
-  "#らみあ〜と": {
-    "name": "雪花ラミィ",
-    "color": "#67cdf7",
-    "twitterId": "1255013740799356929",
-    "youtubeChannel": "UCFKOVgVbGmX65RxO3EtH3iw",
-    "production": "ホロライブ"
-  },
-  "#ねねアルバム": {
-      "name": "桃鈴ねね",
-      "color": "#f2dfcb",
-      "twitterId": "1255017971363090432",
-      "youtubeChannel": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "production": "ホロライブ"
-  },
-  "#ししらーと": {
-      "name": "獅白ぼたん",
-      "color": "#a9e6cf",
-      "twitterId": "1255015814979186689",
-      "youtubeChannel": "UCUKD-uaobj9jiqB-VXt71mA",
-      "production": "ホロライブ"
-  },
-  "#まのあろ絵": {
-      "name": "魔乃アロエ",
-      "color": "#ee8ac3",
-      "twitterId": "1255019046119989248",
-      "youtubeChannel": "UCgZuwn-O7Szh9cAgHqJ6vjw",
-      "production": "ホロライブ"
-  },
-  "#絵まる": {
-      "name": "尾丸ポルカ",
-      "color": "#c92432",
-      "twitterId": "1270551806993547265",
-      "youtubeChannel": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "production": "ホロライブ"
-  },
-  "#アカネ色の世界": {
-    "name": "朝日南アカネ",
-    "color": "#cb4757",
-    "twitterId": "1290267681887621123",
-    "youtubeChannel": "UCe_p3YEuYJb8Np0Ip9dk-FQ",
-    "production": "にじさんじ"
-  },
-  "#描くンゴ": {
-      "name": "周央サンゴ",
-      "color": "#fbc2cb",
-      "twitterId": "1289807807558987777",
-      "youtubeChannel": "UCL_O_HXgLJx3Auteer0n0pA",
-      "production": "にじさんじ"
-  },
-  "#画ハク": {
-      "name": "東堂コハク",
-      "color": "#ead3ac",
-      "twitterId": "1288413439816110081",
-      "youtubeChannel": "UCebT4Aq-3XWb5je1S1FvR_A",
-      "production": "にじさんじ"
-  },
-  "#ヒスイワークス": {
-      "name": "北小路ヒスイ",
-      "color": "#3c9175",
-      "twitterId": "1289831706573250561",
-      "youtubeChannel": "UCRqBKoKuX30ruKAq05pCeRQ",
-      "production": "にじさんじ"
-  },
-  "#ニシゾノート": {
-      "name": "西園チグサ",
-      "color": "#5b7ac6",
-      "twitterId": "1289884632637349888",
-      "youtubeChannel": "UCkngxfPbmGyGl_RIq4FA3MQ",
-      "production": "にじさんじ"
-  }
+  "にじさんじ": [
+      {
+          "name": "にじさんじ",
+          "fanArtTag": null,
+          "color": "#2a4b71",
+          "twitterId": 950967576980422700,
+          "ytChannel": "UCX7YkU9nEeaoZbkVLVajcMg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ホロライブ": [
+      {
+          "name": "ホロライブ",
+          "fanArtTag": null,
+          "color": "#27c7fc",
+          "twitterId": 916156645004030000,
+          "ytChannel": "UCJFZiqLMntJufDCHc6bQixg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "どっとライブ": [
+      {
+          "name": "どっとライブ",
+          "fanArtTag": null,
+          "color": "#000000",
+          "twitterId": 953079145335988200,
+          "ytChannel": "UCAZ_LA7f0sjuZ1Ni8L2uITw",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "名取さな": [
+      {
+          "name": "名取さな",
+          "fanArtTag": "#ヌォンタート",
+          "color": "#c97991",
+          "twitterId": 968546584337072100,
+          "ytChannel": "UCIdEIHpS0TdkqRkHL5OkLtA",
+          "pruduction": null
+      }
+  ],
+  "犬山たまき": [
+      {
+          "name": "犬山たまき",
+          "fanArtTag": "#たまきあーと",
+          "color": "#DD2E44",
+          "twitterId": 218450187,
+          "ytChannel": "UC8NZiqKx6fsDT3AVcMiVFyA",
+          "pruduction": "のりプロ"
+      }
+  ],
+  "愛宮みるく": [
+      {
+          "name": "愛宮みるく",
+          "fanArtTag": "#みるくあるばむ",
+          "color": "#ffd3d0",
+          "twitterId": 1120021521752154100,
+          "ytChannel": "UCJCzy0Fyrm0UhIrGQ7tHpjg",
+          "pruduction": "のりプロ"
+      }
+  ],
+  "白雪みしろ": [
+      {
+          "name": "白雪みしろ",
+          "fanArtTag": "#みしろんあーと",
+          "color": "#d3e1fe",
+          "twitterId": 1104062814686081000,
+          "ytChannel": "UCC0i9nECi4Gz7TU63xZwodg",
+          "pruduction": "のりプロ"
+      }
+  ],
+  "キズナアイ": [
+      {
+          "name": "キズナアイ",
+          "fanArtTag": "#KizunaAI",
+          "color": "#F58EA8",
+          "twitterId": 803480007775383600,
+          "ytChannel": "UC4YaOt1yT-ZeyB0OmxHgolA",
+          "pruduction": "kizunaAi"
+      }
+  ],
+  "ミライアカリ": [
+      {
+          "name": "ミライアカリ",
+          "fanArtTag": "#アカリギャラリー",
+          "color": "#1B95E0",
+          "twitterId": 921295095453794300,
+          "ytChannel": "UCMYtONm441rBogWK_xPH9HA",
+          "pruduction": null
+      }
+  ],
+  "もこ田めめめ": [
+      {
+          "name": "もこ田めめめ",
+          "fanArtTag": "#めめアート",
+          "color": "#bf1e4a",
+          "twitterId": 971926028842033200,
+          "ytChannel": "UCz6Gi81kE6p5cdW1rT0ixqw",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "花京院ちえり": [
+      {
+          "name": "花京院ちえり",
+          "fanArtTag": "#ちぇり絵",
+          "color": "#e781b1",
+          "twitterId": 972262397640548400,
+          "ytChannel": "UCP9ZgeIJ3Ri9En69R0kJc9Q",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "夜桜たま": [
+      {
+          "name": "夜桜たま",
+          "fanArtTag": "#TamaArt",
+          "color": "#b8b8b8",
+          "twitterId": 992031495760986100,
+          "ytChannel": "UCOefINa2_BmpuX4BbHjdk9A",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "木曽あずき": [
+      {
+          "name": "木曽あずき",
+          "fanArtTag": "#あずきそあーと",
+          "color": "#bc83ba",
+          "twitterId": 992041545690824700,
+          "ytChannel": "UCmM5LprTu6-mSlIiRNkiXYg",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "猫乃木もち": [
+      {
+          "name": "猫乃木もち",
+          "fanArtTag": "#もちにゃあと",
+          "color": "#e07b8b",
+          "twitterId": 992043311476101100,
+          "ytChannel": "UC02LBsjt_Ehe7k0CuiNC6RQ",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "カルロ・ピノ": [
+      {
+          "name": "カルロ・ピノ",
+          "fanArtTag": "#ピノの自由帳",
+          "color": "#cdbfd8",
+          "twitterId": 992039541547585500,
+          "ytChannel": "UCMzxQ58QL4NNbWghGymtHvw",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "北上双葉": [
+      {
+          "name": "北上双葉",
+          "fanArtTag": "#ふたばあーと",
+          "color": "#f4b3c7",
+          "twitterId": 992042416445128700,
+          "ytChannel": "UC5nfcGkOAm3JwfPvJvzplHg",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "牛巻りこ": [
+      {
+          "name": "牛巻りこ",
+          "fanArtTag": "#牛絵巻",
+          "color": "#edbe62",
+          "twitterId": 992034633104543700,
+          "ytChannel": "UCKUcnaLsG2DeQqza8zRXHiA",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "神楽すず": [
+      {
+          "name": "神楽すず",
+          "fanArtTag": "#すずあーと",
+          "color": "#76c8c6",
+          "twitterId": 992036953804558300,
+          "ytChannel": "UCUZ5AlC3rTlM-rA2cj5RP6w",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "ヤマトイオリ": [
+      {
+          "name": "ヤマトイオリ",
+          "fanArtTag": "#イオリの森美術館",
+          "color": "#67a3e1",
+          "twitterId": 992044186252685300,
+          "ytChannel": "UCyb-cllCkMREr9de-hoiDrg",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "金剛いろは": [
+      {
+          "name": "金剛いろは",
+          "fanArtTag": "#いろは絵馬",
+          "color": "#f7d955",
+          "twitterId": 992045252167942100,
+          "ytChannel": "UCiGcHHHT3kBB1IGOrv7f3qQ",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "八重沢なとり": [
+      {
+          "name": "八重沢なとり",
+          "fanArtTag": "#なとあーと",
+          "color": "#47bb66",
+          "twitterId": 992045971268747300,
+          "ytChannel": "UC1519-d1jzGiL1MPTxEdtSA",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "メリーミルク": [
+      {
+          "name": "メリーミルク",
+          "fanArtTag": "#Merry_at",
+          "color": "#ffffe0",
+          "twitterId": 971795221338976300,
+          "ytChannel": "UCju7v8SkoWUQ5ITCQwmYpYg",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "電脳少女シロ": [
+      {
+          "name": "電脳少女シロ",
+          "fanArtTag": "#SiroArt",
+          "color": "#5a87cb",
+          "twitterId": 877820534712451100,
+          "ytChannel": "UCLhUvJ_wO9hOvv_yYENu4fQ",
+          "pruduction": "どっとライブ"
+      }
+  ],
+  "ときのそら": [
+      {
+          "name": "ときのそら",
+          "fanArtTag": "#soraArt",
+          "color": "#496ad6",
+          "twitterId": 880317891249188900,
+          "ytChannel": "UCp6993wxpyDPHUpavwDFqgg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "ロボ子さん": [
+      {
+          "name": "ロボ子さん",
+          "fanArtTag": "#ロボ子Art",
+          "color": "#bf1e4a",
+          "twitterId": 960340787782299600,
+          "ytChannel": "UCDqI2jOz0weumE8s7paEk6g",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "さくらみこ": [
+      {
+          "name": "さくらみこ",
+          "fanArtTag": "#miko_Art",
+          "color": "#d199a5",
+          "twitterId": 979891380616020000,
+          "ytChannel": "UC-hM6YJuNYVAmUWxeIr9FeA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "夜空メル": [
+      {
+          "name": "夜空メル",
+          "fanArtTag": "#メルArt",
+          "color": "#fdcd78",
+          "twitterId": 985703615758123000,
+          "ytChannel": "UCD8HOxPs4Xvsm8H0ZxXGiBw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "アキロゼ(akirose)": [
+      {
+          "name": "アキロゼ(akirose)",
+          "fanArtTag": "#アロ絵",
+          "color": "#c97991",
+          "twitterId": 996643748862836700,
+          "ytChannel": "UCFTLzh12_nrtzqBPsTCqenA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "赤井はあと": [
+      {
+          "name": "赤井はあと",
+          "fanArtTag": "#はあとart",
+          "color": "#ffdd9f",
+          "twitterId": 998336069992001500,
+          "ytChannel": "UC1CfXB_kRs3C-zaeTG3oGyg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "白上フブキ": [
+      {
+          "name": "白上フブキ",
+          "fanArtTag": "#絵フブキ",
+          "color": "#fffefb",
+          "twitterId": 997786053124616200,
+          "ytChannel": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "夏色まつり": [
+      {
+          "name": "夏色まつり",
+          "fanArtTag": "#祭絵",
+          "color": "#85696d",
+          "twitterId": 996645451045617700,
+          "ytChannel": "UCQ0UDLQCjY0rmuxCDE38FGg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "湊あくあ": [
+      {
+          "name": "湊あくあ",
+          "fanArtTag": "#あくあーと",
+          "color": "#ae6ea0",
+          "twitterId": 1024528894940987400,
+          "ytChannel": "UC1opHUrw8rvnsadT-iGp7Cg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "紫咲シオン": [
+      {
+          "name": "紫咲シオン",
+          "fanArtTag": "#シオンの書物",
+          "color": "#faf0e7",
+          "twitterId": 1024533638879166500,
+          "ytChannel": "UCXTpFs_3PqI41qX2d9tL2Rw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "百鬼あやめ": [
+      {
+          "name": "百鬼あやめ",
+          "fanArtTag": "#百鬼絵巻",
+          "color": "#bf4b5a",
+          "twitterId": 1024532356554608600,
+          "ytChannel": "UC7fk0CB07ly8oSl0aqKkqFg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "癒月ちょこ": [
+      {
+          "name": "癒月ちょこ",
+          "fanArtTag": "#しょこらーと",
+          "color": "#e3a18a",
+          "twitterId": 1024970912859189200,
+          "ytChannel": "UC1suqwovbL1kzsoaZgFZLKg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "大空スバル": [
+      {
+          "name": "大空スバル",
+          "fanArtTag": "#プロテインザスバル",
+          "color": "#443b3c",
+          "twitterId": 1027853566780698600,
+          "ytChannel": "UCvzGlP9oQwU--Y0r9id_jnA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "大神ミオ": [
+      {
+          "name": "大神ミオ",
+          "fanArtTag": "#みおーん絵",
+          "color": "#d03645",
+          "twitterId": 1063337246231687200,
+          "ytChannel": "UCp-5t9SrOQwXMU7iIjQfARg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "猫又おかゆ": [
+      {
+          "name": "猫又おかゆ",
+          "fanArtTag": "#絵かゆ",
+          "color": "#a082d6",
+          "twitterId": 1109751762733301800,
+          "ytChannel": "UCvaTdHTWBGv3MKj3KVqJVCw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "戌神ころね": [
+      {
+          "name": "戌神ころね",
+          "fanArtTag": "#できたてころね",
+          "color": "#d17c7a",
+          "twitterId": 1109748792721432600,
+          "ytChannel": "UChAnqc_AY5_I3Px5dig3X1Q",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "AZKi": [
+      {
+          "name": "AZKi",
+          "fanArtTag": "#AZKiART",
+          "color": "#d50b66",
+          "twitterId": 1062499145267605500,
+          "ytChannel": "UC0TXe_LYZ4scaW2XMyi5_kw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "星街すいせい": [
+      {
+          "name": "星街すいせい",
+          "fanArtTag": "#ほしまちぎゃらりー",
+          "color": "#79b0d2",
+          "twitterId": 975275878673408000,
+          "ytChannel": "UC5CwaMl1eIgY8h02uZw7u8A",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "兎田ぺこら": [
+      {
+          "name": "兎田ぺこら",
+          "fanArtTag": "#ぺこらーと",
+          "color": "#bdc9ee",
+          "twitterId": 1133215093246664700,
+          "ytChannel": "UC1DCedRgGHBdm81E1llLhOQ",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "潤羽るしあ": [
+      {
+          "name": "潤羽るしあ",
+          "fanArtTag": "#絵クロマンサー",
+          "color": "#72d0b9",
+          "twitterId": 1142975277175205900,
+          "ytChannel": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "不知火フレア": [
+      {
+          "name": "不知火フレア",
+          "fanArtTag": "#しらぬえ",
+          "color": "#f1dfb5",
+          "twitterId": 1154304634569150500,
+          "ytChannel": "UCvInZx9h3jC2JzsIzoOebWg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "白銀ノエル": [
+      {
+          "name": "白銀ノエル",
+          "fanArtTag": "#ノエラート",
+          "color": "#b7aab1",
+          "twitterId": 1153195295573856300,
+          "ytChannel": "UCdyqAaZDKHXg4Ahi7VENThQ",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "宝鐘マリン": [
+      {
+          "name": "宝鐘マリン",
+          "fanArtTag": "#マリンのお宝",
+          "color": "#c06576",
+          "twitterId": 1153192638645821400,
+          "ytChannel": "UCCzUftO8KOVkV4wQG1vkUvg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "月ノ美兎": [
+      {
+          "name": "月ノ美兎",
+          "fanArtTag": "#みとあーと",
+          "color": "#e43f3b",
+          "twitterId": 958737597336928300,
+          "ytChannel": "UCD-miitqNY3nyukJ4Fnf4_A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "勇気ちひろ": [
+      {
+          "name": "勇気ちひろ",
+          "fanArtTag": "#ちーあーと",
+          "color": "#7bb3ee",
+          "twitterId": 958767484902957000,
+          "ytChannel": "UCLO9QDxVL4bnvRRsz6K4bsQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "える": [
+      {
+          "name": "える",
+          "fanArtTag": "#えるの絵だよ",
+          "color": "#e2364f",
+          "twitterId": 958726740108484600,
+          "ytChannel": "UCYKP16oMX9KKPbrNgo_Kgag",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "樋口楓": [
+      {
+          "name": "樋口楓",
+          "fanArtTag": "#でろあーと",
+          "color": "#fbaf71",
+          "twitterId": 958646957190217700,
+          "ytChannel": "UCsg-YqdqQ-KFF0LNk23BY4A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "静凛": [
+      {
+          "name": "静凛",
+          "fanArtTag": "#凛Art",
+          "color": "#745399",
+          "twitterId": 958629229330968600,
+          "ytChannel": "UC6oDys1BGgBsIC3WhG1BovQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "渋谷ハジメ": [
+      {
+          "name": "渋谷ハジメ",
+          "fanArtTag": "#ピク渋",
+          "color": "#d7fad7",
+          "twitterId": 958695135008628700,
+          "ytChannel": "UCeK9HFcRZoTrvqcUCtccMoQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "鈴谷アキ": [
+      {
+          "name": "鈴谷アキ",
+          "fanArtTag": "#アキくんちゃん",
+          "color": "#F2F9C3",
+          "twitterId": 958675678689243100,
+          "ytChannel": "UCpnvhOIJ6BN-vPkYU9ls-Eg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "モイラ": [
+      {
+          "name": "モイラ",
+          "fanArtTag": "#もいもいらすと",
+          "color": "#91ABD0",
+          "twitterId": 958632495196459000,
+          "ytChannel": "UCvmppcdYf4HOv-tFQhHHJMA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "鈴鹿詩子": [
+      {
+          "name": "鈴鹿詩子",
+          "fanArtTag": "#詩子あーと",
+          "color": "#FA4F62",
+          "twitterId": 970940146680868900,
+          "ytChannel": "UCwokZsOK_uEre70XayaFnzA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "宇志海いちご": [
+      {
+          "name": "宇志海いちご",
+          "fanArtTag": "#いちごのあとりえ",
+          "color": "#FFCACE",
+          "twitterId": 971316705363464200,
+          "ytChannel": "UCmUjjW5zF1MMOhYUwwwQv9Q",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "家長むぎ": [
+      {
+          "name": "家長むぎ",
+          "fanArtTag": "#むぎあーと",
+          "color": "#ff899d",
+          "twitterId": 970618643120664600,
+          "ytChannel": "UC_GCs6GARLxEHxy1w40d6VQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "夕陽リリ": [
+      {
+          "name": "夕陽リリ",
+          "fanArtTag": "#りりあーと",
+          "color": "#BFFFFF",
+          "twitterId": 970645643965317100,
+          "ytChannel": "UC48jH1ul-6HOrcSSfoR02fQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "物述有栖": [
+      {
+          "name": "物述有栖",
+          "fanArtTag": "#有栖の絵本",
+          "color": "#81D4E2",
+          "twitterId": 970660632834920400,
+          "ytChannel": "UCt0clH12Xk1-Ej5PXKGfdPA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "文野環": [
+      {
+          "name": "文野環",
+          "fanArtTag": "#のらねっこあら",
+          "color": "#EBDDB4",
+          "twitterId": 971925378913611800,
+          "ytChannel": "UCBiqkFJljoxAj10SoP2w2Cg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ギルザレンⅢ世": [
+      {
+          "name": "ギルザレンⅢ世",
+          "fanArtTag": "#ギルザレン画廊",
+          "color": "#002FA7",
+          "twitterId": 971032696393789400,
+          "ytChannel": "UCUzJ90o1EjqUbk2pBAy0_aw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "剣持刀也": [
+      {
+          "name": "剣持刀也",
+          "fanArtTag": "#金剛力也像",
+          "color": "#A590AF",
+          "twitterId": 970692564096499700,
+          "ytChannel": "UCv1fFr156jc65EMiLbaLImw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "森中花咲": [
+      {
+          "name": "森中花咲",
+          "fanArtTag": "#森中びじゅつかん",
+          "color": "#C8F39A",
+          "twitterId": 973784758688927700,
+          "ytChannel": "UCtpB6Bvhs1Um93ziEDACQ8g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "叶": [
+      {
+          "name": "叶",
+          "fanArtTag": "#かな絵",
+          "color": "#ABD3D8",
+          "twitterId": 988101299106267100,
+          "ytChannel": "UCspv01oxUFf_MTSipURRhkA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "赤羽葉子": [
+      {
+          "name": "赤羽葉子",
+          "fanArtTag": "#赤羽絵葉書",
+          "color": "#CA636C",
+          "twitterId": 988489581367513100,
+          "ytChannel": "UCBi8YaVyZpiKWN3_Z0dCTfQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "笹木咲": [
+      {
+          "name": "笹木咲",
+          "fanArtTag": "#笹の絵",
+          "color": "#EF9AAF",
+          "twitterId": 1012211447160455200,
+          "ytChannel": "UCoztvTULBYd3WmStqYeoHcA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "本間ひまわり": [
+      {
+          "name": "本間ひまわり",
+          "fanArtTag": "#ひまあーと",
+          "color": "#EAC643",
+          "twitterId": 1011167857596493800,
+          "ytChannel": "UC0g1AE0DOjBYnLhkgoRWN1w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "魔界ノりりむ": [
+      {
+          "name": "魔界ノりりむ",
+          "fanArtTag": "#りりむとおえかき",
+          "color": "#D44968",
+          "twitterId": 1022782812775100400,
+          "ytChannel": "UC9EjSJ8pvxtvPdxLOElv73w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "葛葉": [
+      {
+          "name": "葛葉",
+          "fanArtTag": "#KuzuArt",
+          "color": "#ACA7BB",
+          "twitterId": 965760241169088500,
+          "ytChannel": "UCSFCh5NL4qXrAy9u-u2lX3g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "雪汝": [
+      {
+          "name": "雪汝",
+          "fanArtTag": "#氷画",
+          "color": "#85AFE9",
+          "twitterId": 1023138752850321400,
+          "ytChannel": "UCfM_A7lE6LkGrzx6_mOtI4g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "椎名唯華": [
+      {
+          "name": "椎名唯華",
+          "fanArtTag": "#しいなーと",
+          "color": "#F1C8DE",
+          "twitterId": 1022844567735824400,
+          "ytChannel": "UC_4tXjqecqox5Uc05ncxpxg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ドーラ": [
+      {
+          "name": "ドーラ",
+          "fanArtTag": "#ドーラの宝物庫",
+          "color": "#A83E4A",
+          "twitterId": 1002073779848151000,
+          "ytChannel": "UC53UDnhAAYwvNO7j_2Ju1cQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "出雲霞": [
+      {
+          "name": "出雲霞",
+          "fanArtTag": "#出雲墨絵",
+          "color": "#A9D6E3",
+          "twitterId": 1002059898929082400,
+          "ytChannel": "UCLpYMk5h1bq8_GAFVBgXhPQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "轟京子": [
+      {
+          "name": "轟京子",
+          "fanArtTag": "#クリエイツ轟京子",
+          "color": "#F8A69A",
+          "twitterId": 1002050003559317500,
+          "ytChannel": "UCRV9d6YCYIMUszK-83TwxVA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "シスター・クレア": [
+      {
+          "name": "シスター・クレア",
+          "fanArtTag": "#描いたよクレアさん",
+          "color": "#DFC6A8",
+          "twitterId": 1000324666697728000,
+          "ytChannel": "UC1zFJrfEKvCixhsjNSb1toQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "花畑チャイカ": [
+      {
+          "name": "花畑チャイカ",
+          "fanArtTag": "#お花畑青空大写生大会",
+          "color": "#40cf84",
+          "twitterId": 999942020238995500,
+          "ytChannel": "UCsFn_ueskBkMCEyzCEqAOvg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "社築": [
+      {
+          "name": "社築",
+          "fanArtTag": "#社築納品物",
+          "color": "#B6C6F2",
+          "twitterId": 1002342365695078400,
+          "ytChannel": "UCKMYISTJAQ8xTplUPHiABlA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "安土桃": [
+      {
+          "name": "安土桃",
+          "fanArtTag": "#ももちゃんあーと",
+          "color": "#F295CE",
+          "twitterId": 1002075894880452600,
+          "ytChannel": "UC6TfqY40Xt1Y0J-N18c85qQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "鈴木勝": [
+      {
+          "name": "鈴木勝",
+          "fanArtTag": "#漆黒の水鏡",
+          "color": "#7B788A",
+          "twitterId": 994984072647594000,
+          "ytChannel": "UCryOPk2GZ1meIDt53tL30Tw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "緑仙": [
+      {
+          "name": "緑仙",
+          "fanArtTag": "#緑仙はやく見ろ",
+          "color": "#5DCCAB",
+          "twitterId": 1001291760272736300,
+          "ytChannel": "UCt5-0i4AVHXaWJrL8Wql3mw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "卯月コウ": [
+      {
+          "name": "卯月コウ",
+          "fanArtTag": "#絵画コウ",
+          "color": "#F9E97A",
+          "twitterId": 1002077473360658400,
+          "ytChannel": "UC3lNFeJiTq6L3UWoz4g1e-A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "神田笑一": [
+      {
+          "name": "神田笑一",
+          "fanArtTag": "#クリ笑イト",
+          "color": "#F4D35B",
+          "twitterId": 1015204476242677800,
+          "ytChannel": "UCWz0CSYCxf4MhRKPDm220AQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "飛鳥ひな": [
+      {
+          "name": "飛鳥ひな",
+          "fanArtTag": "#ぴよあーと",
+          "color": "#FAD8DC",
+          "twitterId": 1011952508317548500,
+          "ytChannel": "UCiSRx1a2k-0tOg-fs6gAolQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "春崎エアル": [
+      {
+          "name": "春崎エアル",
+          "fanArtTag": "#絵アル",
+          "color": "#4B5F9E",
+          "twitterId": 1004740613814681600,
+          "ytChannel": "UCtAvQ5U0aXyKwm2i4GqFgJg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "雨森小夜": [
+      {
+          "name": "雨森小夜",
+          "fanArtTag": "#雨森と美術",
+          "color": "#756F7D",
+          "twitterId": 1019625123114987500,
+          "ytChannel": "UCRWOdwLRsenx2jLaiCAIU4A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "鷹宮リオン": [
+      {
+          "name": "鷹宮リオン",
+          "fanArtTag": "#リオンあーと",
+          "color": "#CC3D7B",
+          "twitterId": 1009734224369221600,
+          "ytChannel": "UCV5ZZlLjk5MKGg3L0n0vbzw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "舞元啓介": [
+      {
+          "name": "舞元啓介",
+          "fanArtTag": "#しら画",
+          "color": "#AFC9A4",
+          "twitterId": 1027050557465223200,
+          "ytChannel": "UCJubINhCcFXlsBwnHp0wl_g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "竜胆尊": [
+      {
+          "name": "竜胆尊",
+          "fanArtTag": "#尊絵巻",
+          "color": "#745BFF",
+          "twitterId": 1009751809966010400,
+          "ytChannel": "UCPvGypSgfDkVe7JG2KygK7A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "でびでび・でびる": [
+      {
+          "name": "でびでび・でびる",
+          "fanArtTag": "#でびるさまにささげるえ",
+          "color": "#444C7D",
+          "twitterId": 1034137905000636400,
+          "ytChannel": "UCjlmCrq4TP1I4xguOtJ-31w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "桜凛月": [
+      {
+          "name": "桜凛月",
+          "fanArtTag": "#リツキあーと",
+          "color": "#C57FC7",
+          "twitterId": 964340295914569700,
+          "ytChannel": "UCfQVs_KuXeNAlGa3fb8rlnQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "町田ちま": [
+      {
+          "name": "町田ちま",
+          "fanArtTag": "#描いてみまちた",
+          "color": "#EDDDBB",
+          "twitterId": 1028458841871007700,
+          "ytChannel": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "月見しずく": [
+      {
+          "name": "月見しずく",
+          "fanArtTag": "#おつきみあーと",
+          "color": "#E354AF",
+          "twitterId": 1026998487701893100,
+          "ytChannel": "UCqQV8xEBWd5SVZBLlYrS_5Q",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ジョー・力一": [
+      {
+          "name": "ジョー・力一",
+          "fanArtTag": "#ジョー設展",
+          "color": "#D598DD",
+          "twitterId": 1034345063432650800,
+          "ytChannel": "UChUJbHiTVeGrSkTdBzVfNCQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "遠北千南": [
+      {
+          "name": "遠北千南",
+          "fanArtTag": "#遠い北からの絵手紙",
+          "color": "#FCC5DC",
+          "twitterId": 1019541420728713200,
+          "ytChannel": "UCuz0vzQgC8LRdS6lVV0UkUg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "成瀬鳴": [
+      {
+          "name": "成瀬鳴",
+          "fanArtTag": "#なるアート",
+          "color": "#E06489",
+          "twitterId": 1003299893404815400,
+          "ytChannel": "UCoM_XmK45j504hfUWvN06Qg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ベルモンド・バンデラス": [
+      {
+          "name": "ベルモンド・バンデラス",
+          "fanArtTag": "#デラスのお品書き",
+          "color": "#683D46",
+          "twitterId": 1007214007827091500,
+          "ytChannel": "UCbc8fwhdUNlqi-J99ISYu4A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "矢車りね": [
+      {
+          "name": "矢車りね",
+          "fanArtTag": "#りねの自由帳",
+          "color": "#FEECD8",
+          "twitterId": 1043543347430797300,
+          "ytChannel": "UCvzVB-EYuHFXHZrObB8a_Og",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "夢追翔": [
+      {
+          "name": "夢追翔",
+          "fanArtTag": "#絵かける",
+          "color": "#AC324B",
+          "twitterId": 1019066007447470100,
+          "ytChannel": "UCTIE7LM5X15NVugV7Krp9Hw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "黒井しば": [
+      {
+          "name": "黒井しば",
+          "fanArtTag": "#しばのドッグタグ",
+          "color": "#585C82",
+          "twitterId": 1043029918014009300,
+          "ytChannel": "UCmeyo5pRj_6PXG-CsGUuWWg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "童田明治": [
+      {
+          "name": "童田明治",
+          "fanArtTag": "#いめいじー",
+          "color": "#E34E4F",
+          "twitterId": 1082065005061652500,
+          "ytChannel": "UCveZ9Ic1VtcXbsyaBgxPMvg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "郡道美玲": [
+      {
+          "name": "郡道美玲",
+          "fanArtTag": "#3年0組黒板新聞",
+          "color": "#A20063",
+          "twitterId": 1085375212575572000,
+          "ytChannel": "UCeShTCVgZyq2lsBW9QwIJcw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "夢月ロア": [
+      {
+          "name": "夢月ロア",
+          "fanArtTag": "#ロアート",
+          "color": "#D8368D",
+          "twitterId": 1085498064645705700,
+          "ytChannel": "UCCVwhI5trmaSxfcze_Ovzfw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "小野町春香": [
+      {
+          "name": "小野町春香",
+          "fanArtTag": "#小野町絵巻",
+          "color": "#FF336E",
+          "twitterId": 1086415881154875400,
+          "ytChannel": "UCg63a3lk6PNeWhVvMRM_mrQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "語部紡": [
+      {
+          "name": "語部紡",
+          "fanArtTag": "#い絵ーい",
+          "color": "#07A4E3",
+          "twitterId": 1088046328423141400,
+          "ytChannel": "UCufQu4q65z63IgE4cfKs1BQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "瀬戸美夜子": [
+      {
+          "name": "瀬戸美夜子",
+          "fanArtTag": "#せとあーと",
+          "color": "#C4FF2B",
+          "twitterId": 1088029978761977900,
+          "ytChannel": "UCHK5wkevfaGrPr7j3g56Jmw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "御伽原江良": [
+      {
+          "name": "御伽原江良",
+          "fanArtTag": "#えらすとや",
+          "color": "#FFBE5C",
+          "twitterId": 1088023486583304200,
+          "ytChannel": "UCwQ9Uv-m8xkE5PzRc7Bqx3Q",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "戌亥とこ": [
+      {
+          "name": "戌亥とこ",
+          "fanArtTag": "#いぬいらすと",
+          "color": "#9d3757",
+          "twitterId": 1107557844855844900,
+          "ytChannel": "UCXRlIK3Cw_TJIQC5kSJJQMg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "リゼ・ヘルエスタ": [
+      {
+          "name": "リゼ・ヘルエスタ",
+          "fanArtTag": "#ヘル絵スタ",
+          "color": "#42FFFF",
+          "twitterId": 1107935587271467000,
+          "ytChannel": "UCZ1xuCK1kNmn5RzPYIZop3w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "アンジュ・カトリーナ": [
+      {
+          "name": "アンジュ・カトリーナ",
+          "fanArtTag": "#絵ンジュ",
+          "color": "#C83C35",
+          "twitterId": 1099996270947528700,
+          "ytChannel": "UCHVXbQzkl3rDfsXWo8xi2qw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "三枝明那": [
+      {
+          "name": "三枝明那",
+          "fanArtTag": "#さ絵ぐさ",
+          "color": "#392D47",
+          "twitterId": 1110711077468168200,
+          "ytChannel": "UCNW1Ex0r6HsWRD4LCtPwvoQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "愛園愛美": [
+      {
+          "name": "愛園愛美",
+          "fanArtTag": "#愛美術館",
+          "color": "#F98FB7",
+          "twitterId": 1107868757156745200,
+          "ytChannel": "UC0WwEfE-jOM2rzjpdfhTzZA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "鈴原るる": [
+      {
+          "name": "鈴原るる",
+          "fanArtTag": "#るるのアトリエ",
+          "color": "#D7AFA8",
+          "twitterId": 1107968804447903700,
+          "ytChannel": "UC_a1ZYZ8ZTXpjg9xUY9sj8w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "雪城眞尋": [
+      {
+          "name": "雪城眞尋",
+          "fanArtTag": "#まひろあーと",
+          "color": "#B4E9FF",
+          "twitterId": 1120529071585108000,
+          "ytChannel": "UCHX7YpFG8rVwhsHCx34xt7w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "エクス・アルビオ": [
+      {
+          "name": "エクス・アルビオ",
+          "fanArtTag": "#絵クス絵画",
+          "color": "#5C9BBC",
+          "twitterId": 1125700985660198900,
+          "ytChannel": "UCIytNcoz4pWzXfLda0DoULQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "レヴィ・エリファ": [
+      {
+          "name": "レヴィ・エリファ",
+          "fanArtTag": "#絵リファ",
+          "color": "#E8E1E8",
+          "twitterId": 1126062450107768800,
+          "ytChannel": "UCtnO2N4kPTXmyvedjGWdx3Q",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "葉山舞鈴": [
+      {
+          "name": "葉山舞鈴",
+          "fanArtTag": "#舞鈴クラフト",
+          "color": "#D9EC33",
+          "twitterId": 1140588169491935200,
+          "ytChannel": "UCfipDDn7wY-C-SoUChgxCQQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ニュイ・ソシエール": [
+      {
+          "name": "ニュイ・ソシエール",
+          "fanArtTag": "#ソシ絵ール",
+          "color": "#D24E5F",
+          "twitterId": 1140590504158957600,
+          "ytChannel": "UCUc8GZfFxtmk7ZwSO7ccQ0g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "葉加瀬冬雪": [
+      {
+          "name": "葉加瀬冬雪",
+          "fanArtTag": "#はかせレポート",
+          "color": "#EEFFFF",
+          "twitterId": 1144540365854167000,
+          "ytChannel": "UCGYAYLDE7TZiiC8U6teciDQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "加賀美ハヤト": [
+      {
+          "name": "加賀美ハヤト",
+          "fanArtTag": "#加画美",
+          "color": "#B9ADB9",
+          "twitterId": 1141971886688989200,
+          "ytChannel": "UCmovZ2th3Sqpd00F5RdeigQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "夜見れな": [
+      {
+          "name": "夜見れな",
+          "fanArtTag": "#れなの鳥っくあーと",
+          "color": "#F7265A",
+          "twitterId": 1144541744639250400,
+          "ytChannel": "UCL34fAoFim9oHLbVzMKFavQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "黛灰": [
+      {
+          "name": "黛灰",
+          "fanArtTag": "#灰画",
+          "color": "#086776",
+          "twitterId": 1144142348873392100,
+          "ytChannel": "UCb5JxV6vKlYVknoJB8TnyYg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "アルス・アルマル": [
+      {
+          "name": "アルス・アルマル",
+          "fanArtTag": "#マル描いてちょんっ",
+          "color": "#7FD6E2",
+          "twitterId": 1144129307637239800,
+          "ytChannel": "UCdpUojq0KWZCN9bxXnZwz5w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "相羽ういは": [
+      {
+          "name": "相羽ういは",
+          "fanArtTag": "#ういはぁーと",
+          "color": "#324CAC",
+          "twitterId": 1143824438040748000,
+          "ytChannel": "UCnRQYHTnRLSF0cLJwMnedCg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "天宮こころ": [
+      {
+          "name": "天宮こころ",
+          "fanArtTag": "#絵こころ",
+          "color": "#C5EDFF",
+          "twitterId": 1146300489832837100,
+          "ytChannel": "UCkIimWZ9gBJRamKF0rmPU8w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "エリー・コニファー": [
+      {
+          "name": "エリー・コニファー",
+          "fanArtTag": "#絵にふぁー",
+          "color": "#DAFFF9",
+          "twitterId": 1158352011990990800,
+          "ytChannel": "UCpNH2Zk2gw3JBjWAKSyZcQQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ラトナ・プティ": [
+      {
+          "name": "ラトナ・プティ",
+          "fanArtTag": "#ラトアート",
+          "color": "#F8B759",
+          "twitterId": 1144558351788859400,
+          "ytChannel": "UCIG9rDtgR45VCZmYnd-4DUw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "早瀬走": [
+      {
+          "name": "早瀬走",
+          "fanArtTag": "#描かれて走",
+          "color": "#AA7BE8",
+          "twitterId": 1173907942799601700,
+          "ytChannel": "UC2OacIzd2UxGHRGhdHl1Rhw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "健屋花那": [
+      {
+          "name": "健屋花那",
+          "fanArtTag": "#いらすこや",
+          "color": "#FF2FA2",
+          "twitterId": 1146679484575170600,
+          "ytChannel": "UC8C1LLhBhf_E2IBPLSDJXlQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "シェリン・バーガンディ": [
+      {
+          "name": "シェリン・バーガンディ",
+          "fanArtTag": "#シェリンの証拠品",
+          "color": "#6C2735",
+          "twitterId": 1163457518439284700,
+          "ytChannel": "UCHBhnG2G-qN0JrrWmMO2FTA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "フミ": [
+      {
+          "name": "フミ",
+          "fanArtTag": "#恋フミ",
+          "color": "#f4e49D",
+          "twitterId": 1162577611228233700,
+          "ytChannel": "UCwrjITPwG4q71HzihV2C7Nw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "星川サラ": [
+      {
+          "name": "星川サラ",
+          "fanArtTag": "#サラ星図",
+          "color": "#fab80d",
+          "twitterId": 1184071904245584000,
+          "ytChannel": "UC9V3Y3_uzU5e-usObb6IE1w",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "山神カルタ": [
+      {
+          "name": "山神カルタ",
+          "fanArtTag": "#カルタの絵札",
+          "color": "#384b5a",
+          "twitterId": 1165929239436120000,
+          "ytChannel": "UCllKI7VjyANuS1RXatizfLQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "えま★おうがすと": [
+      {
+          "name": "えま★おうがすと",
+          "fanArtTag": "#えまの絵馬",
+          "color": "#b32f51",
+          "twitterId": 1162592961223245800,
+          "ytChannel": "UCl1oLKcAq93p-pwKfDGhiYQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ルイス・キャミー": [
+      {
+          "name": "ルイス・キャミー",
+          "fanArtTag": "#ルイスのコレクション",
+          "color": "#e86a74",
+          "twitterId": 1164061334763274200,
+          "ytChannel": "UCb6ObE-XGCctO3WrjRZC-cw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "魔使マオ": [
+      {
+          "name": "魔使マオ",
+          "fanArtTag": "#マオのお絵描き帳",
+          "color": "#c93965",
+          "twitterId": 1186939016244940800,
+          "ytChannel": "UCerkculBD7YLc_vOGrF7tKg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "グウェル・オス・ガール": [
+      {
+          "name": "グウェル・オス・ガール",
+          "fanArtTag": "#推す画ール",
+          "color": "#f04b2d",
+          "twitterId": 1184381092041646000,
+          "ytChannel": "UC1QgXt46-GEvtNjEC1paHnw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "白雪巴": [
+      {
+          "name": "白雪巴",
+          "fanArtTag": "#巴絵",
+          "color": "#6e3fe7",
+          "twitterId": 1198882148389773300,
+          "ytChannel": "UCuvk5PilcvDECU7dDZhQiEw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "不破湊": [
+      {
+          "name": "不破湊",
+          "fanArtTag": "#絵スコート",
+          "color": "#bf69f4",
+          "twitterId": 1184354588213698600,
+          "ytChannel": "UC6wvdADTJ88OfIbJYIpAaDA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "ましろ": [
+      {
+          "name": "ましろ",
+          "fanArtTag": "#まっしろキャンバス",
+          "color": "#1E2233",
+          "twitterId": 1208326229457133600,
+          "ytChannel": "UCfki3lMEF6SGBFiFfo9kvUA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "奈羅花": [
+      {
+          "name": "奈羅花",
+          "fanArtTag": "#奈羅ート",
+          "color": "#A02655",
+          "twitterId": 1208326128596766700,
+          "ytChannel": "UC-o-E6I3IC2q8sAoAuM6Umg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "来栖夏芽": [
+      {
+          "name": "来栖夏芽",
+          "fanArtTag": "#なつめぇ画",
+          "color": "#880223",
+          "twitterId": 1208331322696949800,
+          "ytChannel": "UCRcLAVTbmx2-iNcXSsupdNA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "天音かなた": [
+      {
+          "name": "天音かなた",
+          "fanArtTag": "#かなたーと",
+          "color": "#515f7e",
+          "twitterId": 1200396304360206300,
+          "ytChannel": "UCZlDXzGoo7d44bwdNObFacg",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "桐生ココ": [
+      {
+          "name": "桐生ココ",
+          "fanArtTag": "#みかじ絵",
+          "color": "#fe9360",
+          "twitterId": 1200397238788247600,
+          "ytChannel": "UCS9uQI-jC3DE0L4IpXyvr6w",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "角巻わため": [
+      {
+          "name": "角巻わため",
+          "fanArtTag": "#つのまきあーと",
+          "color": "#fdfac2",
+          "twitterId": 1200397643479806000,
+          "ytChannel": "UCqm3BQLlJfvkTsX_hvm0UmA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "常闇トワ": [
+      {
+          "name": "常闇トワ",
+          "fanArtTag": "#TOWART",
+          "color": "#b391c9",
+          "twitterId": 1200357161747939300,
+          "ytChannel": "UC1uv2Oq6kNxgATlCiez59hw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "姫森ルーナ": [
+      {
+          "name": "姫森ルーナ",
+          "fanArtTag": "#ルーナート",
+          "color": "#faadd8",
+          "twitterId": 1200396798281445400,
+          "ytChannel": "UCa9Y57gfeY0Zro_noHRVrnw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "フレン・Ｅ・ルスタリオ": [
+      {
+          "name": "フレン・Ｅ・ルスタリオ",
+          "fanArtTag": "#フレン見て",
+          "color": "#d43637",
+          "twitterId": 1221657763954057200,
+          "ytChannel": "UCuep1JCrMvSxOGgGhBfJuYw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "メリッサ・キンレンカ": [
+      {
+          "name": "メリッサ・キンレンカ",
+          "fanArtTag": "#絵リッサ",
+          "color": "#e9746b",
+          "twitterId": 1221661362935328800,
+          "ytChannel": "UCwcyyxn6h9ex4sMXGtpQE_g",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "イブラヒム": [
+      {
+          "name": "イブラヒム",
+          "fanArtTag": "#絵ブラヒム",
+          "color": "#e3e941",
+          "twitterId": 1221660522971463700,
+          "ytChannel": "UCmZ1Rbthn-6Jm_qOGjYsh5A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "弦月藤士郎": [
+      {
+          "name": "弦月藤士郎",
+          "fanArtTag": "#上弦画",
+          "color": "#b7aec8",
+          "twitterId": 1244254367806410800,
+          "ytChannel": "UCGw7lrT-rVZCWHfdG9Frcgg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "甲斐田晴": [
+      {
+          "name": "甲斐田晴",
+          "fanArtTag": "#描いた晴",
+          "color": "#91D2FA",
+          "twitterId": 1244433641251336200,
+          "ytChannel": "UCo2N7C-Z91waaR6lF3LL_jw",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "長尾景": [
+      {
+          "name": "長尾景",
+          "fanArtTag": "#長尾百景",
+          "color": "#534f73",
+          "twitterId": 1244548255913930800,
+          "ytChannel": "UCXW4MqCQn-jCaxlX-nn-BYg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "空星きらめ": [
+      {
+          "name": "空星きらめ",
+          "fanArtTag": "#きら名画",
+          "color": "#3a6084",
+          "twitterId": 1276465818780356600,
+          "ytChannel": "UC_82HBGtvwN1hcGeOGHzUBQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "金魚坂めいろ": [
+      {
+          "name": "金魚坂めいろ",
+          "fanArtTag": "#めいろの金魚図鑑",
+          "color": "#f86a97",
+          "twitterId": 1276919889823842300,
+          "ytChannel": "UC69URn8iP4u8D_zUp-IJ1sg",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "雪花ラミィ": [
+      {
+          "name": "雪花ラミィ",
+          "fanArtTag": "#らみあ〜と",
+          "color": "##67cdf7",
+          "twitterId": 1255013740799357000,
+          "ytChannel": "UCFKOVgVbGmX65RxO3EtH3iw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "桃鈴ねね": [
+      {
+          "name": "桃鈴ねね",
+          "fanArtTag": "#ねねアルバム",
+          "color": "##f2dfcb",
+          "twitterId": 1255017971363090400,
+          "ytChannel": "UCAWSyEs_Io8MtpY3m-zqILA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "獅白ぼたん": [
+      {
+          "name": "獅白ぼたん",
+          "fanArtTag": "#ししらーと",
+          "color": "##a9e6cf",
+          "twitterId": 1255015814979186700,
+          "ytChannel": "UCUKD-uaobj9jiqB-VXt71mA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "魔乃アロエ": [
+      {
+          "name": "魔乃アロエ",
+          "fanArtTag": "#まのあろ絵",
+          "color": "##ee8ac3",
+          "twitterId": 1255019046119989200,
+          "ytChannel": "UCgZuwn-O7Szh9cAgHqJ6vjw",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "尾丸ポルカ": [
+      {
+          "name": "尾丸ポルカ",
+          "fanArtTag": "#絵まる",
+          "color": "##c92432",
+          "twitterId": 1270551806993547300,
+          "ytChannel": "UCK9V2B22uJYu3N7eR_BT9QA",
+          "pruduction": "ホロライブ"
+      }
+  ],
+  "朝日南アカネ": [
+      {
+          "name": "朝日南アカネ",
+          "fanArtTag": "#アカネ色の世界",
+          "color": "##cb4757",
+          "twitterId": 1290267681887621000,
+          "ytChannel": "UCe_p3YEuYJb8Np0Ip9dk-FQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "周央サンゴ": [
+      {
+          "name": "周央サンゴ",
+          "fanArtTag": "#描くンゴ",
+          "color": "##fbc2cb",
+          "twitterId": 1289807807558987800,
+          "ytChannel": "UCL_O_HXgLJx3Auteer0n0pA",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "東堂コハク": [
+      {
+          "name": "東堂コハク",
+          "fanArtTag": "#画ハク",
+          "color": "##ead3ac",
+          "twitterId": 1288413439816110000,
+          "ytChannel": "UCebT4Aq-3XWb5je1S1FvR_A",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "北小路ヒスイ": [
+      {
+          "name": "北小路ヒスイ",
+          "fanArtTag": "#ヒスイワークス",
+          "color": "##3c9175",
+          "twitterId": 1289831706573250600,
+          "ytChannel": "UCRqBKoKuX30ruKAq05pCeRQ",
+          "pruduction": "にじさんじ"
+      }
+  ],
+  "西園チグサ": [
+      {
+          "name": "西園チグサ",
+          "fanArtTag": "#ニシゾノート",
+          "color": "##5b7ac6",
+          "twitterId": 1289884632637350000,
+          "ytChannel": "UCkngxfPbmGyGl_RIq4FA3MQ",
+          "pruduction": "にじさんじ"
+      }
+  ]
 }
