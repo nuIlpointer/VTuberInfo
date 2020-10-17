@@ -1,7 +1,5 @@
 # Virtual YouTuber Database
 
-===
-
 ## これはなに
 
 元々[VirTracker](https://twitter.com/virtracker/)用に蓄積していたライバーの情報をまとめたJSONファイルです。
